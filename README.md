@@ -1,10 +1,5 @@
 # JavaScript-Boot-Camp-assessment 
 
-<p>
- <img scr="https://github.com/HarunHM/JavaScript-Boot-Camp-assessment-/blob/master/add.png"> 
-</p>
-
-
 
 ### #100DaysOfJavaScript with Lux First assessment
 
@@ -100,4 +95,9 @@ The code will output the following four lines:
 
  More Questions for practice: 👉 https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95#:~:text=1.,supports%20OOP%20with%20prototypal%20inheritance.
  
+
+
+<p>
+ <img scr = "https://github.com/HarunHM/JavaScript-Boot-Camp-assessment-/blob/master/add.png"> 
+</p>
 
