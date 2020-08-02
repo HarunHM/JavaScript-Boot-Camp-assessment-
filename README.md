@@ -28,6 +28,9 @@ false
 ```
 
 <p> A typical solution is to compare the absolute difference between two numbers with the special constant Number.EPSILON: </p>
+
+
+
 ```
 function areTheNumbersAlmostEqual(num1, num2) {
 	return Math.abs( num1 - num2 ) < Number.EPSILON;
